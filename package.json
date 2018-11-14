@@ -33,7 +33,7 @@
   },
   "peerDependencies": {
     "materialize-css": "^0.100.1",
-    "@angular/common": "^5.0.0"
+    "@angular/common": ">= 5.0.0"
   },
   "config": {
     "commitizen": {
